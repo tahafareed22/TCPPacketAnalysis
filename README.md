@@ -20,11 +20,11 @@ The **TCP Analysis Tool** parses a `.cap` file and provides detailed insights in
 ## **How to Use**
 
 1. Open a terminal.
-2. Navigate to the directory where `a2_tahafareed.py` is located.
+2. Navigate to the directory where `TCPAnalysisTool.py` is located.
 
 3. Run the program using the following command:
    ```bash
-   python a2_tahafareed.py path/to/cap-file.cap
+   python TCPAnalysisTool.py path/to/cap-file.cap
    ```
    - Replace `path/to/cap-file.cap` with the actual path to your `.cap` file.
 
@@ -34,7 +34,7 @@ The **TCP Analysis Tool** parses a `.cap` file and provides detailed insights in
 
 ### Input:
 ```bash
-python a2_tahafareed.py sample-capture-file.cap
+python TCPAnalysisTool sample-capture-file.cap
 ```
 
 ### Output:
